@@ -1,0 +1,4 @@
+Utente1 0 4 S13 S21 S45 S52
+Utente2 0 1 S51
+Utente3 0 2 S32 S25
+Utente4 0 2 S25 S21
